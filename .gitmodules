@@ -1,0 +1,9 @@
+[submodule "sat-backend"]
+path = SatWebService
+url = git@github.com:mikkezavala/SatWebService.git
+ignore = dirty
+[submodule "sat-front"]
+path = SatFrontEnd
+url = git@github.com:mikkezavala/SatFrontEnd.git
+ignore = dirty
+
